@@ -1,6 +1,6 @@
 # Playground
 
-cs107
+Haoming Chen is taking cs107
 
 A place to play with `git`.
 
