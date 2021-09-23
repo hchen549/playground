@@ -1,5 +1,5 @@
 # Playground
-Haoming Chen is taking cs109
+Haoming Chen is taking cs207
 
 Yiting Han is taking cs107 in Fall 2021
 
